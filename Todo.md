@@ -1,0 +1,2 @@
+-Faire un design
+-Ajouter le code pour faire que le site marche
