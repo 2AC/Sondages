@@ -1,2 +1,6 @@
 -Faire un design
 -Ajouter le code pour faire que le site marche
+	-Pouvoir partager son sondage
+	-choisir le nombre de choix
+	-1 choix/plusieurs choix
+	-résultats
