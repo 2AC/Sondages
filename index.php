@@ -8,7 +8,7 @@
 
 	<body>
 		<form action="sondage.php" method ="post">
-			<h1><input type="text" name "nomDuSondage" placeholder="Nom du sondage" class="titre"></h1>
+			<h1><input type="text" name "titre" placeholder="Nom du sondage" class="titre"></h1>
 			<ul>
 
 				<li>
