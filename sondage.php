@@ -4,7 +4,7 @@
 
 	<head>
 		
-		<title>Votre sondage</title>
+		<title>Inserer nom du sondage</title>
 		<meta charset="utf-8" />
 		<link rel="stylesheet" type="text/css" href="style.css" />
 	
@@ -12,7 +12,7 @@
 
 	<body>
 		
-		<p>La page qui affichera votre sondage</p>
+		<p>Nom de votre sondage</p>
 		
 		<form action="resultats.php" method="post">
 

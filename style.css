@@ -1,20 +1,23 @@
 body{
 
 	background-color: #B4AF91;
+	text-align: center;
 
 }
 
-input{
-	border: 0px;
-	margin: 0.5em 1em 0.5em 1em;
+input.tire{
+	border: 2px;
 }
 
-h1{
-	color: blue;
-	margin-left: 2em;
+h1 input{
+	color: #B4AF91;
+	height: 30px;
+	width: 150px;
 }
 
 input.entree
 {
-	background-color: green;
+	background-color: #E6E2AF;
+	border: 0px;
+	margin: 0.5em 5em 0.5em 0em;
 }

@@ -7,9 +7,10 @@
 	</head>
 
 	<body>
-		<h1>Sondages</h1>
-		<ul>
-			<form action="cible.php" method ="post">
+		<form action="sondage.php" method ="post">
+			<h1><input type="text" name "nomDuSondage" placeholder="Nom du sondage" class="titre"></h1>
+			<ul>
+
 				<li>
   					<input type="text" name="1" placeholder='1er élément'class="entree">
 				</li>
@@ -21,6 +22,6 @@
 				<li>
 				<input type="submit" value="Envoyer">
 				</li>
-			</form>
-		</ul>
+			</ul>
+		</form>
 	</body>
